@@ -1,0 +1,8 @@
+---
+- name: Deploy jenkins slave node
+  hosts: jenkins-slaves
+  remote_user: ansible
+  become: yes
+  roles:
+    - jenkins-slave-setup
+

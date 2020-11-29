@@ -1,0 +1,4 @@
+---
+# defaults file for jenkins-slave-setup
+jenkins_password: $6$FXc28.zqK52Ni8WV$o7auefUVQ.RodCgEV1Y5naDYP6GyqTqKk5Z7yliBoQShetCxGLMdvMC.qpvnRDRIjuuHkeR09hQp0D/QvKE79/
+remote_root_directory: /home/jenkins/
